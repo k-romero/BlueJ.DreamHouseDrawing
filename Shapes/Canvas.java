@@ -137,6 +137,7 @@ public class Canvas
             graphic.setColor(Color.white);
         else
             graphic.setColor(Color.black);
+            
     }
 
     /**
